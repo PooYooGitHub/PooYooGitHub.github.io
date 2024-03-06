@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Example Site</title>
+        <title>Leo&#39;s blog</title>
         <link>https://PooYooGitHub.github.io/</link>
-        <description>Recent content on Example Site</description>
+        <description>Recent content on Leo&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Example Person</copyright>
         <lastBuildDate>Tue, 05 Mar 2024 23:56:05 +0800</lastBuildDate><atom:link href="https://PooYooGitHub.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Hell_hugo</title>
-        <link>https://PooYooGitHub.github.io/p/hell_hugo/</link>
+        <title>Hello_hugo</title>
+        <link>https://PooYooGitHub.github.io/p/hello_hugo/</link>
         <pubDate>Tue, 05 Mar 2024 23:56:05 +0800</pubDate>
         
-        <guid>https://PooYooGitHub.github.io/p/hell_hugo/</guid>
+        <guid>https://PooYooGitHub.github.io/p/hello_hugo/</guid>
         <description>&lt;h1 id=&#34;hello-hugo-themed-stack&#34;&gt;hello hugo themed stack&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;thanks &lt;a class=&#34;link&#34; href=&#34;https://blog.linsnow.cn/p/join-hugo-and-stack/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
